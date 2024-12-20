@@ -1,0 +1,8 @@
+[package]
+name = "block_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoin = "0.31"
+bitcoinkernel = { path = "/home/abubakar-dev/bitcoin-kernel-rust/rust-bitcoinkernel" }
